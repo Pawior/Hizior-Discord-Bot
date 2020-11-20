@@ -1,0 +1,2 @@
+# Hizior Discord Bot
+ dcBot
